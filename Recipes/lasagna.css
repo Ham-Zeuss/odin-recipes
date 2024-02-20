@@ -1,0 +1,17 @@
+h1{
+    color: yellow;
+}
+
+body{
+    background-color: grey;
+    color: white;
+}
+
+.intro {
+
+    font-size: 20px;
+}
+
+.intro.one{
+    color: black;
+}
